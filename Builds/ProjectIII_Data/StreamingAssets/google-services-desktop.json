@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129722558045",
+    "firebase_url": "https://projectiii-d9c6b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projectiii-d9c6b",
+    "storage_bucket": "projectiii-d9c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129722558045:android:2756db685b79f606e50fb4",
+        "android_client_info": {
+          "package_name": "com.ThaiChau.ProjectIII"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129722558045-lptqnf8ijjafalg6dgblnn5u0oe9c1hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHEmgjSo9_IQHA6pIjK_B90PjiRT5ElM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129722558045-lptqnf8ijjafalg6dgblnn5u0oe9c1hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
